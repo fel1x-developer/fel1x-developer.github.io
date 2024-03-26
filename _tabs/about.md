@@ -9,13 +9,35 @@ I focus on **stability**, **security**, and **performance**.
 Programs should be updated to the latest version.
 
 # List of My Programming Languages
-
+## *Comfortable with...*
 - C
 - C++
 - Swift
-- Python
 - HTML/CSS
-- MySQL/MariaDB
+- Javascript
+- Typescript
+- x64 assembly
+- RISC-V assembly
+
+## *Somehow know...*
+- Python
+- Ruby
+- Lua
+- Objective-C
+- Zig
+- Java
+- SQL (MySQL, MariaDB, PostgreSQL)
+- Go
+
+# List of Operating Systems I understand in kernel level
+- Linux (pre-5.0)
+- FreeBSD (since 13.0)
+- xv6
+
+# List of Web Framework I know
+- React.js
+- Next.js
+- Vue.js
 
 # My Plans
 ## Programming Languages
@@ -40,13 +62,13 @@ Programs should be updated to the latest version.
   - Javascript
   - PHP
 
-## Database
+## Databases
   - MariaDB/MySQL
   - PostgreSQL
   - Redis
   - MongoDB
 
-## OS Programming
+## Operating Systems
   - FreeBSD
   - Dragonfly BSD
   - Linux
@@ -76,6 +98,7 @@ Programs should be updated to the latest version.
   - Half-Life SDK
   - Source SDK
   - GZDoom
+  - Xash3D FWGS
 
 ## Web Development
   - React.js
