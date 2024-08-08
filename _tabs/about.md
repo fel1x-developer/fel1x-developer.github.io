@@ -16,8 +16,6 @@ Programs should be updated to the latest version.
 - HTML/CSS
 - Javascript
 - Typescript
-- x64 assembly
-- RISC-V assembly
 
 ## *Somehow know...*
 - Python
@@ -28,18 +26,19 @@ Programs should be updated to the latest version.
 - Java
 - SQL (MySQL, MariaDB, PostgreSQL)
 - Go
+- x64 assembly
 
-# List of Operating Systems I understand in kernel level
-- Linux (pre-5.0)
-- FreeBSD (since 13.0)
+# List of Operating Systems I'm Interested In 
+- Linux
+- FreeBSD 
 - xv6
 
-# List of Web Framework I know
+# List of Web Framework I Use
 - React.js
 - Next.js
 - Vue.js
 
-# My Plans
+# My Study  Plans
 ## Programming Languages
   - Zig
   - Go
